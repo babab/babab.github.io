@@ -1,6 +1,6 @@
 ; Tuhinga document for https://babab.github.io
 ;
-; Copyright (c) 2018 Benjamin Althues <benjamin@babab.nl>
+; Copyright (c) 2018-2023 Benjamin Althues <benjamin@babab.nl>
 
 html5
   head
@@ -22,6 +22,6 @@ html5
       hr
       p.pull-right This page is hosted by Github Pages and is written in tuhinga,
         a :href=index.tuh.txt view the source
-      p Copyright &copy; 2018 Benjamin Althues
+      p Copyright &copy; 2018-2023 Benjamin Althues
 
 ; vim: set ft=tuh ts=2 sts=2 sw=2 et:

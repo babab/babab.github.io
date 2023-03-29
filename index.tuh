@@ -13,11 +13,14 @@ html5
     .container
       h1.page-header babab.github.io
         small project documentation
-      p The documentation for the projects below is hosted by Github Pages.
+      p The documentation for the projects below that are hosted by Github Pages.
       ul.list-unstyled
         li
           a :href=/pycommand/ pycommand
           :: -- Library / toolkit for creating command line programs with minimal effort.
+        li
+          a :href=/tuhinga/ tuhinga
+          :: -- Minimalistic markup language for writing XML/HTML without &lt;angle brackets&gt; and "quotes".
     .container
       hr
       p.pull-right This page is hosted by Github Pages and is written in tuhinga,

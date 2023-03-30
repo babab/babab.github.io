@@ -10,6 +10,7 @@ help:
 
 html:
 	$(TUH) index.tuh >| index.html
+	$(TUH) 404.tuh >| 404.html
 
 install:
 	command -v tuh >/dev/null || make get-pipx
